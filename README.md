@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @1002460770
-- 👀 I’m interested in media and literature, especially in the Romance genre
+- Hi, I’m @1002460770
+- 😁 I’m interested in media and literature, especially in the Romance genre
 - 🌱 I’m currently learning to program in git
 - 😎 My favorite hobby is reading
 - 👍 I’d like to work as a journalist in the future
